@@ -1,4 +1,4 @@
-AI Course Generator
+#AI Course Generator
 
 An AI-powered web application built with Next.js that helps users generate personalized courses and structured learning paths using Artificial Intelligence.
 
